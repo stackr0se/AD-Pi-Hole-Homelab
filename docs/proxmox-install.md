@@ -10,6 +10,6 @@
 ## Notes
 When logging in, the user name is "root" not your email address.
 ## Result
-Proxmox is successfully running headless and accessible via the management laptop.
+Proxmox is successfully running and access to remote control through laptop.
 
-![Proxmox Dashboard](../screenshots/01-proxmox-dashboard.png)
+<img width="1920" height="962" alt="image" src="https://github.com/user-attachments/assets/5634ed91-85b6-4352-bc4c-3f40b1f37141" />
