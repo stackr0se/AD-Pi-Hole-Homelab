@@ -15,8 +15,8 @@ A virtualized mini company network built on a repurposed HP ProDesk 600 G1
 ## Projects
 | # | Project | Skills | Status |
 |---|---------|--------|--------|
-| 1 | Proxmox install | Virtualization, BIOS, static IP | In progress |
-| 2 | Active Directory | AD DS, DNS, DHCP, GPO | Planned |
+| 1 | Proxmox install | Virtualization, BIOS, static IP | Complete |
+| 2 | Active Directory | AD DS, DNS, DHCP, GPO | In Progress |
 | 3 | Pi-hole | DNS filtering, containers | Planned |
 | 4 | File shares + permissions | NTFS, groups | Planned |
 | 5 | PowerShell automation | Bulk users from CSV | Planned |
